@@ -1,0 +1,7 @@
+7.2 LATIHAN 1. GAJI PEGAWAI
+Buatlah skrip program yang mampu menghitung gaji 5 orang pegawai dengan ketentuan
+sebagai berikut:
+1. Inputan program terdiri dari nama_pegawai, jumlah_kehadiran sebanyak 5 kali.
+2. Gaji dihitung berdasarkan jumlah_kehadiran, yaitu 50.000,- per 1 hari hadir.
+3. Apabila jumlah_kehadiran < 20 hari, maka gaji dipotong sebesar 10% dari gaji
+yang diperoleh.
